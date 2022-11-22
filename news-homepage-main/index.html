@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <!-- displays site properly based on user's device -->
 
-  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicon-32x32.png">
   <link rel="stylesheet" href="style.css">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
     integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
@@ -48,9 +48,12 @@
 
     <main>
       <div class="row">
-        <div class="col-md-8 col-12">
+        <div class="col-md-8">
           <div>
-            <img src="assets/images/image-web-3-desktop.jpg" alt="" class="img-fluid">
+            <picture class="d-flex justify-content-center">
+              <source media="(max-width: 990px)" srcset="assets\images\image-web-3-mobile.jpg" class="img-fluid">
+              <img src="assets/images/image-web-3-desktop.jpg" alt="" class="img-fluid">
+            </picture>
           </div>
           <div class="row">
             <div class="col-md-6 p-3">
@@ -64,7 +67,7 @@
             </div>
           </div>
         </div>
-        <div class="col-md-4 col-12 p-3 new">
+        <div class="col-md-4 p-3 new">
           <h1>New</h1>
           <div class="text-white">
             <a href="#">Hydrogen VS Electric Cars</a>
@@ -87,7 +90,7 @@
     </main>
 
     <section>
-      <div class="row my-5 topicos d-md-flex flex-md-row d-flex flex-column">
+      <div class="row my-2 topicos d-md-flex flex-md-row d-flex flex-column">
         <div class="col d-flex my-3">
           <img src="assets/images/image-retro-pcs.jpg" alt="">
           <div class="ps-3">
