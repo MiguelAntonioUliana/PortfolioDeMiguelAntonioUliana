@@ -8,4 +8,12 @@ O site possui responsividade para telas acima da largura de 768px
 
 Link do projeto: <a href="https://barususubaru.github.io/PortfolioDeMiguelAntonioUliana/news-homepage-main/index.html">News Homepage</a>
 
+Imagens do projeto
+
+Site para aparelhos destop
+
 <img src="img/DesktopProjeto1.jpeg">
+
+Site para aparelhos mobile
+
+<img src="img/MobileProjeto1">
