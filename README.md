@@ -7,3 +7,5 @@ Site criado a partir do design do site <a href="https://www.frontendmentor.io/ch
 O site possui responsividade para telas acima da largura de 768px
 
 Link do projeto: <a href="https://barususubaru.github.io/PortfolioDeMiguelAntonioUliana/news-homepage-main/index.html">News Homepage</a>
+
+<img hfre="img/DesktopProjeto1.jpeg">
