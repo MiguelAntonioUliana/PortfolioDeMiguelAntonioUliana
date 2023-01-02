@@ -16,4 +16,4 @@ Site para aparelhos destop
 
 Site para aparelhos mobile
 
-<img src="img/MobileProjeto1">
+<img src="img/MobileProjeto1.jpeg">
